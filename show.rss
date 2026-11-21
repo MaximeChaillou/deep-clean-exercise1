@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Myrapod test Tesla</title>
+    <link>https://maximechaillou.github.io/deep-clean-exercise1/</link>
+    <atom:link href="https://maximechaillou.github.io/deep-clean-exercise1/show.rss" rel="self" type="application/rss+xml"/>
+    <description>Flux de test : deux episodes generes, pour verifier la lecture d'un flux ajoute par URL.</description>
+    <language>fr</language>
+    <copyright>Myrapod test</copyright>
+    <lastBuildDate>Fri, 20 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <image><url>https://maximechaillou.github.io/deep-clean-exercise1/cover.jpg</url><title>Myrapod test Tesla</title><link>https://maximechaillou.github.io/deep-clean-exercise1/</link></image>
+    <itunes:image href="https://maximechaillou.github.io/deep-clean-exercise1/cover.jpg"/>
+    <itunes:author>Myrapod test</itunes:author>
+    <itunes:summary>Flux de test : deux episodes generes.</itunes:summary>
+    <itunes:owner><itunes:name>Myrapod test</itunes:name><itunes:email>booba235@hotmail.com</itunes:email></itunes:owner>
+    <itunes:category text="Technology"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Test Tesla 2</title>
+      <link>https://maximechaillou.github.io/deep-clean-exercise1/</link>
+      <description>Deuxieme episode de test, 2 min 43.</description>
+      <guid isPermaLink="false">myrapod-test-tesla-2</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://maximechaillou.github.io/deep-clean-exercise1/episode-2.mp3" length="1301222" type="audio/mpeg"/>
+      <itunes:duration>163</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Test Tesla 1</title>
+      <link>https://maximechaillou.github.io/deep-clean-exercise1/</link>
+      <description>Premier episode de test, 2 min 42.</description>
+      <guid isPermaLink="false">myrapod-test-tesla-1</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://maximechaillou.github.io/deep-clean-exercise1/episode-1.mp3" length="1292654" type="audio/mpeg"/>
+      <itunes:duration>162</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
